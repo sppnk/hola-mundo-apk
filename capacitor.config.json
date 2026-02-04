@@ -1,5 +1,5 @@
 {
-  "appId": "com.mi.app",
-  "appName": "Hola Mundo",
+  "appId": "com.hola.mundo",
+  "appName": "HolaMundo",
   "webDir": "www"
 }
